@@ -1,2 +1,2 @@
-# SwiftStudy
-Swift学习平时记录的一些小玩意，请勿下载，因为你根本就用不上的。
+# SwiftWorkSpace
+这是学习Swift时使用的仓库。请勿下载
